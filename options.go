@@ -7,7 +7,7 @@ package gpiod
 import (
 	"time"
 
-	"github.com/warthog618/gpiod/uapi"
+	"uapi"
 )
 
 // ChipOption defines the interface required to provide a Chip option.

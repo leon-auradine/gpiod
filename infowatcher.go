@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/warthog618/gpiod/uapi"
+	"uapi"
 	"golang.org/x/sys/unix"
 )
 
