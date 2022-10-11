@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: CC0-1.0
 
-module gpiod
+module github.com/leon-auradine/gpiod
 
 go 1.17
 
